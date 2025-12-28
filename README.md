@@ -6,7 +6,7 @@ Refresh the page to roll the dice and instantly see which player wins.
 ---
 
 ## 🚀 Live Demo
-https://ayushbrmn08.github.io/dice-game/
+https://ayushbrmn08.github.io/Dice-Game/
 
 ---
 
