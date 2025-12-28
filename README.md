@@ -31,6 +31,11 @@ https://ayushbrmn08.github.io/dice-game/
 
 ---
 
+## 📸 ScreenShot
+<img width="2576" height="1438" alt="Screenshot 2025-12-28 205854" src="https://github.com/user-attachments/assets/2bc13563-8a36-4132-a263-7e7f41eb9adf" />
+
+---
+
 ## 🎯 How It Works
 
 1. Two random numbers between 1–6 are generated  
