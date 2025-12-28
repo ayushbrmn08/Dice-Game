@@ -1,0 +1,79 @@
+/* styling body */
+body {
+    background-color: rgb(32 33 36);
+    min-height: 100vh;
+}
+
+/* adding padding to the content and centering content*/
+.container-fluid {
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    background-color: transparent;
+}
+
+/* styling header(h1) playername(h2) and credits(p) and adding padding */
+.topheader {
+    padding-bottom: 4rem;
+    font-size: 8rem;
+    color: #00ffd8;
+}
+
+.player1,
+.player2 {
+    padding-bottom: 1.5rem;
+    color: #00ffbb;
+}
+
+.credits {
+    padding-top: 4rem;
+    font-family: monospace;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #dbdbdb;
+}
+
+/* set size of dice image */
+.diceimg {
+    height: 12rem;
+}
+
+/* centering image */
+.block1,
+.block2 {
+    width: 12rem;
+    text-align: center;
+}
+
+/* Typography for header*/
+.calistoga {
+    font-family: "Calistoga", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* Typography for player name h2's */
+.space-grotesk {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* resonsive adjustment */
+@media (max-width:576px) {
+
+    /* scale down image size and font size in smaller devices */
+    .topheader {
+        font-size: 4rem !important;
+    }
+
+    .diceimg {
+        height: 7rem !important;
+    }
+}
+
+/* winningflag */
+.flag {
+    height: 8rem;
+}
