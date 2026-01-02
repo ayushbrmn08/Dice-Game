@@ -1,62 +1,62 @@
-# 🎲 Dice Game – JavaScript Web App
+# Dice Game – JavaScript Web App
 
-A simple and responsive Dice Game built using **HTML, CSS, and JavaScript**.  
-Refresh the page to roll the dice and instantly see which player wins.
+A lightweight and responsive Dice Game built with HTML, CSS, and JavaScript.  
+Reload the page to roll the dice and instantly determine the winner.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 https://ayushbrmn08.github.io/Dice-Game/
 
 ---
 
-## 📌 Features
+## Features
 
-- 🎲 Random dice roll for two players  
-- 🏆 Automatically declares winner or draw  
-- 📱 Fully responsive (mobile & desktop)  
-- 🎨 Clean UI with Bootstrap 5  
-- ⚡ Instant results using JavaScript DOM manipulation  
-- 🔄 Session-based refresh logic  
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5  
-- CSS3  
-- JavaScript (ES6)  
-- Bootstrap 5  
-- Font Awesome  
+- Random dice roll for two players  
+- Automatic winner or draw detection  
+- Responsive layout for mobile and desktop  
+- Clean and minimal UI using Bootstrap  
+- Fast DOM-based updates with JavaScript  
 
 ---
 
-## 📸 ScreenShot
-<img width="2576" height="1438" alt="Screenshot 2025-12-28 205854" src="https://github.com/user-attachments/assets/2bc13563-8a36-4132-a263-7e7f41eb9adf" />
+## Tech Stack
+
+- HTML5 – Structure  
+- CSS3 – Styling  
+- JavaScript (ES6) – Game logic  
+- Bootstrap 5 – Responsive UI  
+- Font Awesome – Icons  
 
 ---
 
-## 🎯 How It Works
+## Screenshot
 
-1. Two random numbers between 1–6 are generated  
-2. Dice images update dynamically  
-3. Winner is declared based on higher number  
-4. If both numbers are equal, it's a draw  
+<img width="2576" height="1438" alt="Dice Game Screenshot" src="https://github.com/user-attachments/assets/2bc13563-8a36-4132-a263-7e7f41eb9adf" />
 
 ---
 
-## 🧠 Learning Outcomes
+## How It Works
+
+1. Two random numbers (1–6) are generated on page load  
+2. Dice images update dynamically based on values  
+3. The player with the higher number wins  
+4. Equal values result in a draw  
+
+---
+
+## Learning Outcomes
 
 - JavaScript random number generation  
-- DOM manipulation  
-- Responsive UI design  
-- Session storage usage  
-- Clean project structuring  
+- DOM manipulation techniques  
+- Responsive web design principles  
+- Clean and structured front-end code  
 
 ---
 
-## 🔧 How to Run Locally
+## Run Locally
 
 ```bash
-git clone https://github.com/your-username/dice-game.git
-
+git clone https://github.com/ayushbrmn08/Dice-Game.git
+cd Dice-Game
+open index.html
