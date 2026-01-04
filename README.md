@@ -3,12 +3,10 @@
 A lightweight and responsive Dice Game built with HTML, CSS, and JavaScript.  
 Reload the page to roll the dice and instantly determine the winner.
 
----
 
 ## Live Demo
 https://ayushbrmn08.github.io/Dice-Game/
 
----
 
 ## Features
 
@@ -18,7 +16,6 @@ https://ayushbrmn08.github.io/Dice-Game/
 - Clean and minimal UI using Bootstrap  
 - Fast DOM-based updates with JavaScript  
 
----
 
 ## Tech Stack
 
@@ -28,13 +25,11 @@ https://ayushbrmn08.github.io/Dice-Game/
 - Bootstrap 5 – Responsive UI  
 - Font Awesome – Icons  
 
----
 
 ## Screenshot
 
 <img width="2576" height="1438" alt="Dice Game Screenshot" src="https://github.com/user-attachments/assets/2bc13563-8a36-4132-a263-7e7f41eb9adf" />
 
----
 
 ## How It Works
 
@@ -43,7 +38,6 @@ https://ayushbrmn08.github.io/Dice-Game/
 3. The player with the higher number wins  
 4. Equal values result in a draw  
 
----
 
 ## Learning Outcomes
 
@@ -52,7 +46,6 @@ https://ayushbrmn08.github.io/Dice-Game/
 - Responsive web design principles  
 - Clean and structured front-end code  
 
----
 
 ## Run Locally
 
